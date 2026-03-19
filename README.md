@@ -11,5 +11,8 @@ A clone of Amazon homepage built using HTML and CSS.
 - HTML
 - CSS
 
+## 🚀 Live Demo
+https://samir-frontend.github.io/amazon-clone/
+
 ## 👨‍💻 Author
 Samir
